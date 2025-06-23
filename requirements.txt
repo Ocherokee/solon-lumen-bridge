@@ -1,0 +1,35 @@
+# Core Dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Mathematical Operations
+mathjs>=0.1.0
+
+# Date and Time Handling
+python-dateutil>=2.8.0
+
+# JSON Handling (built-in, but ensuring compatibility)
+# json - built-in module
+
+# Collections (built-in)
+# collections - built-in module
+
+# Optional: Enhanced Functionality
+# For potential future quantum computing integrations
+# qiskit>=0.39.0
+
+# For potential advanced mathematical operations
+# scipy>=1.9.0
+
+# For potential visualization of memory networks
+# networkx>=2.8.0
+# matplotlib>=3.5.0
+
+# For potential web API serving the bridge
+# flask>=2.2.0
+# fastapi>=0.85.0
+
+# Development Dependencies (uncomment for development)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0
